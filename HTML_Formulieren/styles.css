@@ -65,7 +65,7 @@ main ul{
 #pink-background{
     background-color: rgba(240, 10, 106, 0.473);
 }
-p,h1{
+.lighseagreen, h1{
     background-color: lightseagreen;
 }
 hr{
